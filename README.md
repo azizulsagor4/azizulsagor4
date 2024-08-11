@@ -20,5 +20,4 @@ Skills: HTML | CSS | JS | React | Redux | Firebase | Node JS | Express.js | Reac
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/azizulsagor4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/azizul-hakim-964919321//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/azizulsagor44/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/azizulsagor2?igsh=ZjEwMnNlZDcxamNn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/azizulsagor)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/azizulsagor4)](https://github.com/ryo-ma/github-profile-trophy)
 
