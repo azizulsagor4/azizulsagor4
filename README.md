@@ -1,5 +1,5 @@
 ![passionate MERN stack developer.](https://media.licdn.com/dms/image/D4E16AQHbdW5dVc-Tog/profile-displaybackgroundimage-shrink_350_1400/0/1723300407738?e=1729123200&v=beta&t=dcC0_eHkEnM5CgCjH8pHWNTf_HoX7UKlxndrSumxgDw)
-## Hi there 👋, i'm Azizul Hakim 
+## Hi there 👋, i'm Azizul Hakim Sagor
 #### passionate MERN stack developer.
 
 I'm a passionate MERN Stack Developer with a knack for building dynamic and responsive web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs. My expertise lies in leveraging the full power of the MERN stack to create robust, scalable, and high-performance applications.
